@@ -1,1 +1,2 @@
-THIS VERSION IS BAD
+Hello! I am learning GitHub.
+This is my first GitHub project.
